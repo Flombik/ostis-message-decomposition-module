@@ -1,0 +1,2 @@
+spacy
+pymorphy2 # for Russian and Ukrainian only
